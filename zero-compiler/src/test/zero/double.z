@@ -1,1 +1,1 @@
-val double = fn n -> n*n
+val double = fn n -> 2*n
